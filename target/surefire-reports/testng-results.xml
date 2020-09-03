@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48" started-at="2020-08-05T14:00:06 IST" finished-at="2020-08-05T14:00:06 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48" started-at="2020-08-05T14:00:06 IST" finished-at="2020-08-05T14:00:06 IST">
+      <class name="MavenProjectID.MavenProject.SeleniumTest">
+        <test-method status="PASS" signature="SeleniumTest1()[pri:0, instance:MavenProjectID.MavenProject.SeleniumTest@2a17b7b6]" name="SeleniumTest1" duration-ms="5" started-at="2020-08-05T14:00:06 IST" finished-at="2020-08-05T14:00:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest1 -->
+        <test-method status="PASS" signature="SeleniumTest2()[pri:0, instance:MavenProjectID.MavenProject.SeleniumTest@2a17b7b6]" name="SeleniumTest2" duration-ms="1" started-at="2020-08-05T14:00:06 IST" finished-at="2020-08-05T14:00:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest2 -->
+        <test-method status="PASS" signature="SeleniumTest3()[pri:0, instance:MavenProjectID.MavenProject.SeleniumTest@2a17b7b6]" name="SeleniumTest3" duration-ms="0" started-at="2020-08-05T14:00:06 IST" finished-at="2020-08-05T14:00:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest3 -->
+      </class> <!-- MavenProjectID.MavenProject.SeleniumTest -->
+      <class name="MavenProjectID.MavenProject.RESTAPITest">
+        <test-method status="PASS" signature="RESTAPITest1()[pri:0, instance:MavenProjectID.MavenProject.RESTAPITest@4f063c0a]" name="RESTAPITest1" duration-ms="0" started-at="2020-08-05T14:00:06 IST" finished-at="2020-08-05T14:00:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RESTAPITest1 -->
+        <test-method status="PASS" signature="RESTAPITest2()[pri:0, instance:MavenProjectID.MavenProject.RESTAPITest@4f063c0a]" name="RESTAPITest2" duration-ms="0" started-at="2020-08-05T14:00:06 IST" finished-at="2020-08-05T14:00:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RESTAPITest2 -->
+        <test-method status="PASS" signature="RESTAPITest3()[pri:0, instance:MavenProjectID.MavenProject.RESTAPITest@4f063c0a]" name="RESTAPITest3" duration-ms="0" started-at="2020-08-05T14:00:06 IST" finished-at="2020-08-05T14:00:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RESTAPITest3 -->
+      </class> <!-- MavenProjectID.MavenProject.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
